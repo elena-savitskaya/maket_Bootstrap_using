@@ -6,7 +6,7 @@ body {
   background-image: url("../image/photo_2022-07-06_19-22-10.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  height: 120vh;
+  height: 80vh;
 }
 
 .address p{
@@ -14,6 +14,7 @@ body {
 }
 
 .articles {
+  border-radius: 12px;
   background-color: rgb(225, 225, 225);
 }
 
