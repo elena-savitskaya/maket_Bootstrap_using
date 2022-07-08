@@ -9,4 +9,11 @@ body {
   height: 120vh;
 }
 
+.address p{
+  font-weight: 600;
+}
+
+.articles {
+  background-color: rgb(225, 225, 225);
+}
 
