@@ -2,11 +2,8 @@ body {
   position: relative;
 }
 
-.header {
-  background-image: url("../image/photo_2022-07-06_19-22-10.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
+body {
+  font-family: 'Roboto', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .address p{
@@ -17,3 +14,17 @@ body {
   border-radius: 12px;
   background-color: rgb(225, 225, 225);
 }
+
+.banner {
+  background-color: rgb(233, 233, 233);
+}
+
+.header h1, h3, .navbar-brand {
+  letter-spacing: 2px;
+  color: white;
+  text-shadow: 3px 5px 6px rgb(180, 180, 185), -2px -3px 2px #b1b1b1;
+  }
+
+  .nav-link {
+    font-size: 20px;
+  }
